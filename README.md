@@ -17,3 +17,14 @@
 # 👨‍💻 Github Stats
 [![](https://raw.githubusercontent.com/yarogono/yarogono/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yarogono/yarogono/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yarogono?pet-id=636385723617733278"
+    width="600"
+    height="120"
+  />
+</a>
+  
